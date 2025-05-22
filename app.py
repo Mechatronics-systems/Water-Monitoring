@@ -86,7 +86,7 @@ data_sources = {
 
 # --------------------------- SIDEBAR ---------------------------
 with st.sidebar:
-    st.image(r"C:\Users\Prajveen Vaishnav\Desktop\logo.png.jpg", use_container_width=True)
+    st.image("C:/Users/Prajveen Vaishnav/Desktop/conn/logo.png", use_container_width=True)
     st.markdown("---")
     st.subheader("🚀 Quick Status")
     st.markdown("Last Updated:")
